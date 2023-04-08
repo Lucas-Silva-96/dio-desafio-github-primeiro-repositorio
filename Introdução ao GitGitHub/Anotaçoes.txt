@@ -8,5 +8,5 @@ $ git satus //par conferir o stautus do repositorio na máquina.
 ### Para empurrar atualizações do repositório da máquina para o GitHub
 
 $ git add. ou $git add -a //para adicionar repósitorio no GitHub.
-$ git commit -m //para commitar o repositorio.
+$ git commit -m "mensagem"//para commitar o repositorio.
 $ git push origin main ou $ git push origin master // empurra o repósitorio para  GitHub.
