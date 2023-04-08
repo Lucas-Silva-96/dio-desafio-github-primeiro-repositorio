@@ -1,0 +1,12 @@
+# Comandos usados no Git
+
+### Para clonar repositorio do GitHub para a máquina
+
+$ git clone + link do git hub //para clonar repositório do GitHub para a maquina.
+$ git satus //par conferir o stautus do repositorio na máquina.
+
+### Para empurrar atualizações do repositório da máquina para o GitHub
+
+$ git add. ou $git add -a //para adicionar repósitorio no GitHub.
+$ git commit -m //para commitar o repositorio.
+$ git push origin main ou $ git push origin master // empurra o repósitorio para  GitHub.
